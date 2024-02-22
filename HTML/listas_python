@@ -1,0 +1,26 @@
+numeros = []
+
+while True:
+#usar o while true
+    num = input("Digite um número para colocar na lista: ")
+    numeros.append(num)
+    continuar = input("Você quer continuar? [s]/[n]")
+    if continuar == 'n':
+        break
+  
+
+#quantos números foram inseridos
+print(numeros)
+print(f"Quantidade numeros digitados {len(numeros)}")
+
+#usando o sorted para não alterar a lista original
+nums_ordenados = sorted(numeros)
+print(f"Lista em ordem crescente: {nums_ordenados}")
+
+print(f"Lista em ordem decrescente: {nums_ordenados.reverse()}")
+
+#mostrar se o número 5 foi digitado
+if '5' in numeros:
+    print("O número 5 foi digitado")
+else:
+    print("O número 5 não foi digitado")
