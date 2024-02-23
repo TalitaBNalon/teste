@@ -18,10 +18,9 @@ issue goes here
 - [ ] Docuementation
       
 # Screenshots
-18 Original
-| Updated :|:
-** original screenshot **
-<img width="329" alt="image" src="https://github.com/TalitaBNalon/teste/assets/158466267/87a4ee8f-588f-4785-b5be-807614432fd3">
-**updated screenshot **
-<img width="329" alt="image" src="https://github.com/TalitaBNalon/teste/assets/158466267/87a4ee8f-588f-4785-b5be-807614432fd3">
+Original                          |               Updated 
+:--------------------------------:|:---------------------------------:
+<img width="200" alt="image" src="https://github.com/TalitaBNalon/teste/assets/158466267/87a4ee8f-588f-4785-b5be-807614432fd3">         |  <img width="200" alt="image" src="https://github.com/TalitaBNalon/teste/assets/158466267/87a4ee8f-588f-4785-b5be-807614432fd3">
+ 
+
 
